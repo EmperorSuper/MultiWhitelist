@@ -1,0 +1,7 @@
+name: MultiWhitelist
+main: me.EmperorSuper.MultiWhitelist.MainClass
+version: 0.1.3
+commands:
+   MultiWhitelist:
+      description: The main MultiWhitelist command.
+      aliases: mw
